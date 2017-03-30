@@ -1,0 +1,15 @@
+﻿div {
+    font-size:50px;
+}
+body{
+    background-color:lightgray;
+}
+
+.on{
+    color:green;
+    background-color:black;
+}
+.off {
+    color:red;
+    background-color:black;
+}
